@@ -1,4 +1,4 @@
-# Front-End Web Development | IBM SlillsBuild
+# Front-End Web Development | IBM SkillsBuild
 
 ## Web Development Fundamentals Capstone Project
 
